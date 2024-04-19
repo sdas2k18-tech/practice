@@ -1,1 +1,1 @@
-print("Hello DSA its game on")
+print("hello")
