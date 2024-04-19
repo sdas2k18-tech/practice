@@ -34,3 +34,5 @@ if __name__ == '__main__':
 
 Thread1.join()
 Thread2.join()
+
+# print(x)
