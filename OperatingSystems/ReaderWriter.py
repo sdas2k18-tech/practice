@@ -5,6 +5,7 @@ global x                #Shared Data
 x = 0
 lock = thread.Lock()    #Lock for synchronising access
 
+
 def Reader():
     global x
     print('Reader is Reading!')
