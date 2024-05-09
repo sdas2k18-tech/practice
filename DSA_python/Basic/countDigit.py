@@ -23,8 +23,8 @@
 #     print("Number of Digits in N:", digits)
 import math
 
-n= 100
-y= math.log10(n)
+n= 10000
+y= int(math.log10(n)) +1 
 print(y)
 
 
