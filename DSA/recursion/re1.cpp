@@ -6,8 +6,8 @@ void print(){
    
    // Base Condition.
    if(cnt == 3)  return;
-   cout<<cnt<<endl;
-
+   cout<<"SDZ"<<" ";
+ 
    // Count Incremented
    cnt++;
    print();

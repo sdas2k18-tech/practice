@@ -8,8 +8,8 @@
       "args": [],
       "stopAtEntry": false,
       "externalConsole": true,
-      "cwd": "d:/Workspace/practice/DSA/Basics",
-      "program": "d:/Workspace/practice/DSA/Basics/build/Debug/outDebug",
+      "cwd": "d:/Workspace/practice/DSA/recursion",
+      "program": "d:/Workspace/practice/DSA/recursion/build/Debug/outDebug",
       "MIMode": "gdb",
       "miDebuggerPath": "gdb",
       "setupCommands": [

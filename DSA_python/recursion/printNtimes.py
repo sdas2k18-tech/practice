@@ -2,7 +2,7 @@ def printNames(i,n):
     if i > n :
         return
     
-    print("Subhasish")
+    print(i)
 
     printNames(i+1,n)
 
